@@ -1,0 +1,98 @@
+[
+    {
+        "source": 1,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 2,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 3,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 4,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 5,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 6,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 7,
+        "target": 999,
+        "rela": "原因",
+        "type": "因果关系"
+    },
+    {
+        "source": 8,
+        "target": 3,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 8,
+        "target": 7,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 9,
+        "target": 1,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 10,
+        "target": 4,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 11,
+        "target": 2,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 12,
+        "target": 6,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 12,
+        "target": 7,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 13,
+        "target": 999,
+        "rela": "改善",
+        "type": "改善方法"
+    },
+    {
+        "source": 14,
+        "target": 5,
+        "rela": "改善",
+        "type": "改善方法"
+    }
+]
